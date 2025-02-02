@@ -1,0 +1,11 @@
+.fondo {
+    background-image: url('https://i.ibb.co/bRzR65MQ/Header.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    height: 20rem;
+    margin-bottom: 40px;
+    color: white;
+    justify-items: center;  
+    align-content: center;
+  }
